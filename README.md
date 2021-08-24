@@ -1,3 +1,7 @@
+# IMPORTANT NOTE
+
+This repository has been folded into the Seed repository and is archived (no longer in use).
+
 # Base
 
 This repository contains the essential files for building a Poplog system.
